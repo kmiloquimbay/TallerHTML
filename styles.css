@@ -1,0 +1,16 @@
+.nav-title {
+    margin: 10px 0;
+    color: #fff;
+}
+
+.nav-title:hover {
+    color: #fff;
+}
+
+.nav-title:visited {
+    color: #fff;
+}
+
+.nav-top {
+    background-color: #1c1c1c;
+}
